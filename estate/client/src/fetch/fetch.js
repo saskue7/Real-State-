@@ -12,7 +12,7 @@ export const options1 = {
     categoryExternalID: '4'
   },
   headers: {
-    'X-RapidAPI-Key': '022111aa49mshb3ca0ce5bb3c604p15cdc3jsnd41ea281305b',
+    'X-RapidAPI-Key': 'your key here',
     'X-RapidAPI-Host': 'bayut.p.rapidapi.com'
   }
 };
@@ -32,7 +32,7 @@ export const options2 = {
     categoryExternalID: '4'
   },
   headers: {
-    'X-RapidAPI-Key': '022111aa49mshb3ca0ce5bb3c604p15cdc3jsnd41ea281305b',
+    'X-RapidAPI-Key': 'your key here',
     'X-RapidAPI-Host': 'bayut.p.rapidapi.com'
   }
 };
