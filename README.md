@@ -1,4 +1,5 @@
 # Real-State-
+I used local server for authentication in which i used context api for state management and for the front-end api i used rapid bayut api which covers whole real state data
 
 # Output
 ![Screenshot 2023-04-11 224440](https://user-images.githubusercontent.com/55278429/231252840-3322871e-9ef1-4997-93f2-a07e04e4b1a9.png)
