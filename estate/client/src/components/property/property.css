@@ -1,0 +1,20 @@
+.property{
+ display: flex;
+ gap: 12px;
+ padding-top: 0;
+ width: 420px;
+ justify-content: flex-start;
+ cursor: pointer;
+ background-color: red;
+
+ overflow: hidden;
+}
+
+.box2{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.property_title{
+ font-size: 18px;
+}

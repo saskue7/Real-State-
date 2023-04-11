@@ -1,0 +1,13 @@
+.imagesBox{
+ display: flex;
+ align-items: center;
+ overflow: scroll;
+}
+.image_box{
+ display: flex;
+ width: 910px;
+ overflow: hidden;
+}
+.imagesBox::-webkit-scrollbar{
+ display: none;
+}

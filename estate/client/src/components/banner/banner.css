@@ -1,0 +1,35 @@
+.banner{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ align-items: center;
+ margin-bottom: 40px;
+}
+
+.h1_purpose{
+ color: gray;
+ font-size: 20px;
+ font-weight: 300;
+}
+.h1_title{
+ font-size: 30px;
+ font-weight: bold;
+}
+.h1_desc{
+ font-size: 25px;
+ padding-bottom: 3px;
+ color: rgb(83, 80, 80);
+}
+
+.banner_btn{
+ width: 140px;
+ height: 40px;
+ border: none;
+ border-radius: 5px;
+ font-size: 14px;
+ background: rgb(12, 184, 12);
+ color: white;
+ cursor: pointer;
+}
+
+
